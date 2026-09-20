@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, its me Seychelles! 🫧🌊
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/c72a6ffe-dc9e-4eef-8b09-c19313b78488" />
 <!--
 **aphseychelles/aphseychelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
